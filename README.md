@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   26 mins         █████████████████████████   99.89 % 
 ```
 <!--END_SECTION:waka-->
