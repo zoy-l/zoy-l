@@ -2,7 +2,7 @@
 
 #### 一名小前端
 
-- 🌱 我目前正在学习 **工程化** 和 **Nodejs**
+- 🌱 我目前正在研究 **工程化** 和 **Nodejs**
 - ⚡ **Typescript** 优先 **Javascript**
 - 😜 懂一点点 **Python** or **Django**
 - 🚀 热衷Macos
