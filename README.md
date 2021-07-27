@@ -1,9 +1,9 @@
 <h2 align="center">👋 你好呀! 我是zoy.</h2>
 
-- 🌱 我目前正在研究 **工程化** 和 **Nodejs**
-- ⚡ **Typescript** 优先 **Javascript**
+- 🤔 目前正在健身
+- ⚡ **Typescript** 重度使用
 - 😜 懂一点点 **Python** or **Django**
-- 🚀 热衷Macos
+
 
 
 
