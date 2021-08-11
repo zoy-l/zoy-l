@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ```text
 Vue.js       11 hrs 53 mins  ██████████████████████▒░░   88.75 % 
-JavaScript   1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+JavaScript   1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
