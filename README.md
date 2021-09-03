@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSX          7 hrs 13 mins   █████████████▓░░░░░░░░░░░   54.91 % 
-TypeScript   2 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
-JavaScript   1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JSON         1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-CSV          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSX          9 hrs 24 mins   ███████████████░░░░░░░░░░   60.05 % 
+TypeScript   2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 % 
+JavaScript   1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JSON         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+CSV          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 <!--END_SECTION:waka-->
