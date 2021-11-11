@@ -1,7 +1,7 @@
 <h2 align="center">👋 你好呀! 我是zoy.</h2>
 
 - 🤔 目前正在健身, 重构vitx 2.0 🤠
-- ⚡ **Typescript** 重度使用
+- ⚡ **Typescript** 重度使用者
 - 😜 懂一点点 **Python** or **Django**
 
 
